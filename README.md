@@ -10,3 +10,8 @@ Example:
 
 "You got your hourly paycheck for being a Math tutor and earned", "This is my new botline", "You get your hourly rate for being cool"
 
+Also
+If there's no more bot sayings after your own, you'd not add a comma, a comma is only seperating bot lines.
+
+weekly_list = ["You got your weekly paycheck for being a supporter and earned",
+               "You got your weekly paycheck for working at mcdonalds and earned."]
