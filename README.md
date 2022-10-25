@@ -1,4 +1,4 @@
-# Bot-lines-
+# Bot-lines
 This is the bot lines for 24/7 Casino Discord Bot.
 
 
