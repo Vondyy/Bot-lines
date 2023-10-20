@@ -1,16 +1,1 @@
 
-py-cord-dev==2.5.0rc5
-DateTime
-pycryptodomex
-loguru
-colorama
-aiomysql
-psutil
-humanize
-pygit2
-GitPython
-yfinance==0.2.25
-easy-pil
-python-dotenv
-git+https://github.com/top-gg/python-sdk/
-aiohttp
