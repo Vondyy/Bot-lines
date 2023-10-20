@@ -33,4 +33,23 @@ search_list = ["You searched in the Egyptian Pyramids and found","You searched f
 
 search_list = ["You searched under your friend couch and found", "You searched around in Krogers trash can and found","You search under the bed in your house and found","You search on top of the bed of your house and found","You search the side of the bed next to the  coffee table and found","You searched the lawn on your house and found","You search your bro's house and found","You search the girl's house and found","You search Mr.incredible speacial suit and found","You search michol angelo hat and found","You search ShadowKing pants and found","You search the discord bar and found","You search Venom speacial house and found","You search clash royale and found","You search War thunder speacial website and found","You search willy wonka factory and found","You search tommy innit and found""You search the roof of your nearby cinema and found","You search the seats at church and found","You search the priests staff and found","You search your apartment and found","You search your bossy office and found","You search RAV endpoint protection terms and service and found","You search ShadowQueen wallet and found","You search under the bed in your house and found","You search on top of the bed of your house and found","You search the side of the bed next to the  coffee table and found","You searched the lawn on your house and found","You search your bro's house and found","You search the girl's house and found","You search pewdiepie and found","You search youtube and found"]
 
-volunteer = ["You volunteer to clean up the neighborhood and earned","You volunteer at a local soup kitchen and earned","You organize a charity event and earned","You tutor students after school and earned","You participate in a beach cleanup and earned","You help organize a community garden and earned","You assist elderly residents with their daily tasks and earned","You volunteer at a homeless shelter and earned","You join a youth mentoring program and earned","You donate blood at a community blood drive and earned","You participate in a Habitat for Humanity build and earned","You teach computer skills to underprivileged children and earned","You volunteer at an animal shelter and earned","You help organize a fundraising walk or run and earned","You serve meals to the homeless at a local shelter and earned","You assist in disaster relief efforts and earned","You volunteer at a local library and earned","You help clean up a park and earned","You spend time with the elderly at a nursing home and earned","You assist in organizing a community recycling program and earned","You coach a youth sports team and earned"]
+volunteer_list = ["You volunteer to clean up the neighborhood and earned","You volunteer at a local soup kitchen and earned","You organize a charity event and earned","You tutor students after school and earned","You participate in a beach cleanup and earned","You help organize a community garden and earned","You assist elderly residents with their daily tasks and earned","You volunteer at a homeless shelter and earned","You join a youth mentoring program and earned","You donate blood at a community blood drive and earned","You participate in a Habitat for Humanity build and earned","You teach computer skills to underprivileged children and earned","You volunteer at an animal shelter and earned","You help organize a fundraising walk or run and earned","You serve meals to the homeless at a local shelter and earned","You assist in disaster relief efforts and earned","You volunteer at a local library and earned","You help clean up a park and earned","You spend time with the elderly at a nursing home and earned","You assist in organizing a community recycling program and earned","You coach a youth sports team and earned"]
+
+
+rob_list = [
+    "You picked them up and shook them for their money and earned",
+    "You sneaked into their pocket and swiped some cash, earning",
+    "You distracted them with a magic trick and nabbed",
+    "You pulled a fast one and ran away with",
+    "You hacked their digital wallet and transferred",
+    "You played a game of poker and cleaned them out, gaining",
+    "You challenged them to a duel and won",
+    "You caught them off guard and snatched",
+    "You convinced them to invest in a fake business and got",
+    "You sold them a 'rare' item that was actually worthless and made",
+    "You took advantage of their clumsiness and grabbed",
+    "You outsmarted them in a bet and walked away with",
+    "You told them you're collecting for charity and they gave you",
+    "You swapped their real money with counterfeit and kept",
+    "You set up a fake toll booth and they handed over"
+]
